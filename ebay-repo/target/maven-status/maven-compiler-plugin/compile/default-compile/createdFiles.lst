@@ -1,0 +1,5 @@
+com\aartek\model\User.class
+com\aartek\repository\ProductRepository.class
+com\aartek\repository\RegistrationRepository.class
+com\aartek\model\Product.class
+com\aartek\repository\LoginRepository.class
